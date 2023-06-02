@@ -1,0 +1,65 @@
+
+    {
+        "employees": [
+        {
+        "employeeID": "0111",
+        "name": "Jayden",
+        "salary": "65000",
+        "departmentName": "Devops"
+        },
+        {
+            "employeeID": "0112",
+            "name": "Natalie",
+            "salary": "74000",
+            "departmentName": "QA tester"
+            },
+            {
+                "employeeID": "0113",
+                "name": "Eric",
+                "salary": "65000",
+                "departmentName": "Recruiter"
+                },
+                {
+                    "employeeID": "0114",
+                    "name": "Sam",
+                    "salary": "55000",
+                    "departmentName": "IT help desk"
+                    },
+                    {
+                        "employeeID": "0115",
+                        "name": "Caleb",
+                        "salary": "55000",
+                        "departmentName": "Junior Software Engineer"
+                        },
+                        {
+                            "employeeID": "0116",
+                            "name": "Jimmy",
+                            "salary": "240000",
+                            "departmentName": "Cloud Architect"
+                            },
+                            {
+                                "employeeID": "0117",
+                                "name": "Tyler",
+                                "salary": "55000",
+                                "departmentName": "IT help desk"
+                                },
+                                {
+                                    "employeeID": "0118",
+                                    "name": "Michael",
+                                    "salary": "84000",
+                                    "departmentName": "Senior Software Engineer"
+                                    },
+                                    {
+                                        "employeeID": "0119",
+                                        "name": "Lebron",
+                                        "salary": "Cloud Engineer",
+                                        "departmentName": "118000"
+                                        },
+                                        {
+                                            "employeeID": "0020",
+                                            "name": "Kobe",
+                                            "salary": "181500",
+                                            "departmentName": "Senior Cloud Engineer"
+                                            }
+        ]
+    }
